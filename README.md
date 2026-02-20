@@ -1,5 +1,5 @@
 # Code-Geni-AI-Explainer-and-Code-Generator
-License: MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)
 **CodeGene** is an **AI-powered application** built with **Streamlit** that helps users **explain, generate, and analyze code or content** from multiple input formats — including **text, PDFs, CSVs, and images**.  
 It integrates **Ollama (LLMs)**, **OCR**, and **Speech Recognition** to deliver an **interactive and intelligent chat experience**.
 
